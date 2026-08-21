@@ -2,9 +2,9 @@
 Clip cam is a compact, lightweight camera designed to easily clip/attach onto clothing to enable for videos to be recorded.
 
 ##### Links
-CAD (onshape) - https://cad.onshape.com/documents/8243de0c87756a5302ca80c9/w/473f942c6d628cac8e3e8563/e/f24ff84d4e8aaade25539a5c?renderMode=0&uiState=6a881cb166b1712572ba42c3
-Planning Document - https://docs.google.com/document/d/1JeZIAPkKwmBSTolWtcYFbNlMK8i-MI5_zn4KjeQbeuE/edit?usp=sharing
-Projected expenses (for AU) - 
+- CAD (Onshape) - https://cad.onshape.com/documents/8243de0c87756a5302ca80c9/w/473f942c6d628cac8e3e8563/e/f24ff84d4e8aaade25539a5c?renderMode=0&uiState=6a881cb166b1712572ba42c3
+- Planning Document - https://docs.google.com/document/d/1JeZIAPkKwmBSTolWtcYFbNlMK8i-MI5_zn4KjeQbeU/edit?usp=sharing
+- Projected expenses (for AU) -
 
 ##### Features
   - Lightweight, compact design
